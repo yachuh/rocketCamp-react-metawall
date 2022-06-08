@@ -1,0 +1,36 @@
+.post {
+    width: 533px;
+    border: 2px solid #000400;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0px 3px 0px #000400;
+    padding: 24px;
+    margin-bottom: 16px;
+}
+
+.post-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.post-info .user{
+    width: 45px;
+    border-radius: 200%;
+    border: 2px solid #000400;
+    margin-right: 15px;
+}
+
+.post-info .author {
+    font-weight: 700;
+}
+.post-info .time {
+    color: #9B9893;
+    font-style: 12px;
+}
+
+.post-img {
+    border: 2px solid #000400;
+    margin-top: 16px;
+    border-radius: 8px;
+}
